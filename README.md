@@ -1,5 +1,5 @@
 # incremental-search
-This was a day project to develop an incremental search field that alows users to find one of the coutnries that exixt on earch. 
+This was a day project to develop an incremental search field that alows users to find one of the coutnries that exist on earch. 
 
 ## Tech Stack
  * Javascript
